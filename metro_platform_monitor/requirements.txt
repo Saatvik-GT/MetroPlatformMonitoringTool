@@ -1,4 +1,5 @@
 opencv-python
 numpy
-# Optional for improved detection
+# Optional for improved detection (YOLO)
 ultralytics
+
